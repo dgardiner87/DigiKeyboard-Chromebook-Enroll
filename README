@@ -11,4 +11,4 @@ The wait function is where you can specify how long to wait in seconds before co
 
 Lines 78-79 Turn on the LED on the board to show that the program is finished (which can also be seen when the chromebook is enrolled).
 
-Please note that on a UK Layout chromebook, you may have to use " instead of @ in your email address to get it to enter the correct keystroke.
+Please note that on a UK Layout chromebook, you may have to use \" instead of @ in your email address to get it to enter the correct keystroke.
